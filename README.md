@@ -19,3 +19,4 @@ This is an app that enables a user to post their pitches or comment on other use
 ### Terms of use
 
 As soon as you open the website pitch categories are listed.
+You can then click the category inorder to see pitches within that category.
