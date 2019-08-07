@@ -12,4 +12,4 @@ This is an app that enables a user to post their pitches or comment on other use
 3. As a user, I would like to be signed in for me to leave a comment.
 4. As a user, I would like to receive a welcoming email once I sign up.
 5. As a user, I would like to view the pitches I have created in my profile page.
-As a user, I would like to comment on the different pitches and leave feedback.
+6. As a user, I would like to comment on the different pitches and leave feedback.
