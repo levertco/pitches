@@ -31,3 +31,14 @@ To contribute a pitch if create an account then log in.
 
 ### Prerequisites
 Install postgres and python3.7 Win edition.
+
+### Installation
+`git clone https://github.com/levertco/pitches.git`
+
+### Known Bugs
+No known bugs detected.
+
+### Licence
+This project is under the [MIT](https://github.com/levertco/pitches/blob/master/LICENSE) licence
+
+Copyright (c) 2019 Levert
