@@ -28,3 +28,6 @@ To contribute a pitch if create an account then log in.
 3. Python
 4. Flask
 5. css
+
+### Prerequisites
+Install postgres and python3.7 Win edition.
