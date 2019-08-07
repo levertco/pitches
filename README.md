@@ -9,3 +9,5 @@ This is an app that enables a user to post their pitches or comment on other use
 ### User Stories
 1. As a user, I would like to see the pitches other people have posted.
 2. As a user, I would like to vote on the pitch they liked and give it a downvote or upvote.
+3. As a user, I would like to be signed in for me to leave a comment.
+
