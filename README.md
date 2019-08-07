@@ -20,3 +20,11 @@ This is an app that enables a user to post their pitches or comment on other use
 
 As soon as you open the website pitch categories are listed.
 You can then click the category inorder to see pitches within that category.
+To contribute a pitch if create an account then log in.
+
+### Tech used
+1. HTML
+2. Postgres
+3. Python
+4. Flask
+5. css
