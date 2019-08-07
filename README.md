@@ -15,3 +15,7 @@ This is an app that enables a user to post their pitches or comment on other use
 6. As a user, I would like to comment on the different pitches and leave feedback.
 7. As a user, I would like to submit a pitch in any category.
 8. As a user, I would like to view the different categories.
+
+### Terms of use
+
+As soon as you open the website pitch categories are listed.
